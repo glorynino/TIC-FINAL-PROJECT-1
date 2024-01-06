@@ -5,4 +5,4 @@
 #### Rihane / Ghazi / 31601312 / the whole main content of word/latex/powerpoint
 #### Neil / Issolah / 31397806 / word document + creation of github repository
 #### Yasmine / Belhedid / 3141415 / excel workbook
-#### Chibani / Djad Abdelhafid / 31359414 / latex code
+#### Djad Abdelhafid / Chibani / 31359414 / latex code
